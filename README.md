@@ -1,48 +1,7 @@
-<h1 align="center"> Profile </h1>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
+### Olá, meu nome é Felipe!
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p align="center">
-  <img alt="License" src=".github/DevLinks.jpg">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
-
-## 💻 Projeto
-
-Esse projeto é um agregador de links para usar como cartão de visitas onlines
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-
-(Eu apenas reescrevi esse projeto como aprendizado) - Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+<p>Estudando no momento<br/> Eu sou desenvolvedor iniciante</p>
